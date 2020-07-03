@@ -3,5 +3,6 @@
  
 Prerequirements
 
-python 3.3+ [link www.python.org](www.python.org)
-pyopenGL [link http://pyopengl.sourceforge.net](http://pyopengl.sourceforge.net)
+python 3.3+ [www.python.org](www.python.org)
+
+pyopenGL [http://pyopengl.sourceforge.net](http://pyopengl.sourceforge.net)
